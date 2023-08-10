@@ -1,1 +1,1 @@
-Hello World project in C language
+alx-low_level_programming
